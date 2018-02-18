@@ -13,7 +13,15 @@
   <body>
     <header>
       <div class="container">
-
+        <img src="dist/img/logo3.png" alt="">
+        <div class="pull-left hidden-eu">
+          <h1>INGLÊS PELA POESIA</h1>
+        </div>
+        <ul>
+          <li>CURSOS</li>
+          <li>BLOG</li>
+          <li>ENTRAR</li>
+        </ul>
       </div>
     </header>
     <div class="wrapper-main">
@@ -65,13 +73,30 @@
           </div>
         </div>
       </section>
-      <section>
+      <section class="sessao2">
+        <div class="row">
+          <div class="col-lg-6 col-md-6 col-sm-6 col-xm-12 texto">
+            <p>
+              É comum dizer que o mundo é uma máquina e que a língua é um
+              organismo vivo ou que a religião é o ópio do povo. Quantos livros
+              não foram escritos para revolucionar o mundo com essas ideias
+              ou destruí-las de vez?
+            </p>
+            <p>
+              Elas foram feitas para ilustrar uma experiência densa. Algo que
+              não pudiaser dito em linguagem comum, que exigia uma expressão
+              única. Com o tempo, esvaziadas de sentido viream abstrações pelas quais muitos lutam sem saber por quê.
+            </p>
+          </div>
+          <div class="col-lg-6 col-md-6 col-sm-6 col-xm-12 imagem">
 
+          </div>
+        </div>
       </section>
       <section class="sessao-cards">
         <div class="container">
           <div class="row">
-            <div class="col">
+            <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
               <div class="box-card">
                 <h2>GRAMÁTICA</h2>
                 <div class="">
@@ -79,7 +104,7 @@
                 </div>
               </div>
             </div>
-            <div class="col">
+            <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
               <div class="box-card">
                 <h2>CONTATO COM OS AUTORES</h2>
                 <div class="">
@@ -87,7 +112,7 @@
                 </div>
               </div>
             </div>
-            <div class="col">
+            <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
               <div class="box-card">
                 <h2>VALORES FIGURATIVOS</h2>
                 <div class="">
@@ -104,6 +129,7 @@
               <div class="form-group">
                 <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Enter email">
               </div>
+              <button type="submit" class="botao-comprar botao-comprar-esquerda">Eviar</button>
             </div>
           </div>
         </div>
@@ -111,8 +137,10 @@
       <section>
 
       </section>
-      <section>
-
+      <section class="ultima-sessao">
+        <div class="imagem">
+          <img src="dist/img/logo2.png" alt="">
+        </div>
       </section>
     </div>
     <script src="dist/js/jquery-3.2.1.js" charset="utf-8"></script>

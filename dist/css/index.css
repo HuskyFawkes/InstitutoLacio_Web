@@ -3,6 +3,7 @@ body {
   margin: 0;
   padding: 0;
   background-color: #fff;
+  overflow-x: hidden;
 }
 
 header {
@@ -13,6 +14,39 @@ header {
   z-index: 10000;
 }
 
+@media (max-width: 992px) {
+  .hidden-eu {
+    display: none;
+  }
+}
+
+header img {
+  margin-top: 10px;
+  height: 50px;
+  float: left;
+}
+
+header h1{
+  line-height: 70px;
+  color: #fff;
+  margin-left: 40px;
+  float: left;
+}
+
+header ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  float: right;
+  color: #fff;
+}
+
+header ul li {
+  display: inline;
+  line-height: 70px;
+  margin: 0 20px;
+}
+
 .wrapper-main {
   padding-top: 70px;
   width: 100%;
@@ -20,6 +54,7 @@ header {
   position: absolute;
   overflow: auto;
   box-sizing: border-box;
+  overflow-x: hidden;
 }
 
 .secao-topo {
@@ -115,6 +150,13 @@ header {
   box-sizing: border-box;
 }
 
+@media (max-width: 992px) {
+  .box-card {
+    margin: 20px 0;
+    height: auto;
+  }
+}
+
 .sessao-cards {
   padding: 50px;
   overflow: auto;
@@ -122,6 +164,12 @@ header {
   background-size: 100% auto;
   background-position: 50% 0%;
   background-attachment: fixed;
+}
+
+@media (max-width: 1335px) {
+  .sessao-cards {
+    background-size: auto 100%;
+  }
 }
 
 .receba {
@@ -145,4 +193,42 @@ header {
 .form input {
   width: 50%;
   margin-left: 25%;
+}
+
+@media (max-width: 992px) {
+  .form input {
+    width: 90%;
+    margin-left: 5%;
+  }
+}
+
+.botao-comprar-esquerda {
+  margin-left: 25%;
+}
+
+@media (max-width: 992px) {
+  .botao-comprar-esquerda {
+    margin-left: 0%;
+  }
+}
+
+.sessao2 {
+}
+
+.sessao2 .imagem {
+  height: 500px;
+  background-image: url('../img/Moonligth.jpg');
+  background-size: 100% auto ;
+}
+
+.sessao2 .texto {
+  padding: 100px;
+}
+.ultima-sessao {
+  text-align: center;
+  padding: 50px;
+  background-color: #580623;
+}
+.ultima-sessao .imagem img {
+  width: 300px;
 }
