@@ -21,17 +21,82 @@ header {
   overflow: auto;
   box-sizing: border-box;
 }
- 
+
+.secao-topo {
+  color: #fff;
+  background-image: url('../img/img2_dark.jpg');
+  background-size: 100% auto;
+  background-position: 50% 50%;
+}
+
 .cima-topo {
   padding: 20px 0;
 }
 
 .cima-topo h1 {
-  padding: 10px 0;
+  padding: 20px 0;
 }
 
 .secao-topo .texto-desc-topo {
+  padding-right: 50%;
+}
 
+@media (max-width: 992px) {
+  .secao-topo .texto-desc-topo {
+    padding-right: 0%;
+  }
+}
+
+.secao-topo-caixas {
+  padding: 20px 0;
+  margin-top: 50px;
+}
+
+.secao-topo-caixas .dividir-caixas {
+  border-left: 1px solid #444;
+  border-right: 1px solid #444;
+}
+
+.secao-topo .imagem {
+  text-align: center;
+}
+
+.secao-topo .imagem img {
+  width: 70px;
+}
+
+.secao-topo .titulo {
+  padding: 10px 0;
+  text-align: center;
+  font-size: 20pt;
+}
+
+.secao-topo .texto {
+  padding-bottom: 10px;
+  text-align: center;
+  font-size: 15pt;
+}
+
+.secao-topo .texto .ruim {
+  color: #cb040b;
+}
+
+.secao-topo .texto .bom {
+  color: #0ae86c;
+  font-size: 20pt;
+}
+
+.botao-comprar-topo {
+  text-align: center;
+}
+
+.botao-comprar {
+  padding: 10px 40px;
+  background-color: #580623;
+  border: none;
+  font-size: 18pt;
+  color: #fff;
+  cursor: pointer;
 }
 
 .box-card {
