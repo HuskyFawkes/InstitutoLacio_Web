@@ -14,21 +14,23 @@
     <header>
 
     </header>
-    <section>
+    <div class="wrapper-main">
+      <section>
 
-    </section>
-    <section>
+      </section>
+      <section>
 
-    </section>
-    <section>
+      </section>
+      <section>
 
-    </section>
-    <section>
+      </section>
+      <section>
 
-    </section>
-    <section>
+      </section>
+      <section>
 
-    </section>
+      </section>
+    </div>
     <script src="dist/js/jquery-3.2.1.js" charset="utf-8"></script>
   </body>
 </html>
