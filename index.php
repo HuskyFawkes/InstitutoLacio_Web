@@ -20,19 +20,19 @@
       <section class="secao-topo">
         <div class="container">
           <div class="row cima-topo">
-            <div class="col">
+            <div class="col-lg-6 col-sm-12">
               <h1>INGLÊS PELA <br>POESIA</h1>
               <div class="texto-desc-topo">
                 O inglês não é simplismente a língua mais falada do mundo. É a língua
                 em que a riqueza de vocabulário deu lugar às maiores realizações poéticas.
               </div>
             </div>
-            <div class="col">
+            <div class="col-lg-6 col-sm-12">
               <img src="dist/img/unnamed.jpg" alt="">
             </div>
           </div>
           <div class="row secao-topo-caixas">
-            <div class="col">
+            <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12">
               <div class="imagem">
                 <img src="dist/img/home.png" alt="">
               </div>
@@ -43,7 +43,7 @@
                 Assista 30h/aula do melhor conteúdo em qualquer dispositivo
               </div>
             </div>
-            <div class="col dividir-caixas">
+            <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12 dividir-caixas">
               <div class="imagem">
                 <img src="dist/img/group.png" alt="">
               </div>
@@ -54,7 +54,7 @@
                 Tire dúvidas e interaja com outros alunos e o próprio professor.
               </div>
             </div>
-            <div class="col">
+            <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12">
               <div class="texto">
                 De <span class="ruim">R$800,00</span> por <br>R$500,00 à vista ou <br><span class="bom">10xR$60,00</span>
               </div>
@@ -68,31 +68,41 @@
       <section>
 
       </section>
-      <section>
+      <section class="sessao-cards">
         <div class="container">
           <div class="row">
             <div class="col">
               <div class="box-card">
-                <h2>LOREM IPSI</h2>
+                <h2>GRAMÁTICA</h2>
                 <div class="">
-                  Nunc tempus tempor lectus, non efficitur metus hendrerit nec. Curabitur dignissim ac tellus id scelerisque. Suspendisse tincidunt dapibus dui non posuere. Donec consectetur sed dolor sed consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse cursus risus ac ex auctor placerat. Quisque bibendum at enim sed rutrum
+                  Ela, sozinha, acaba sendo um obstáculo. Contextualizando, juntamente aos melhores autores, permitir um maior fixação e um uso mais aprimorado da língua. Você aprenderá e entenderá melhor várias estruturas.
                 </div>
               </div>
             </div>
             <div class="col">
               <div class="box-card">
-                <h2>LOREM IPSI</h2>
+                <h2>CONTATO COM OS AUTORES</h2>
                 <div class="">
-                  Nunc tempus tempor lectus, non efficitur metus hendrerit nec. Curabitur dignissim ac tellus id scelerisque. Suspendisse tincidunt dapibus dui non posuere. Donec consectetur sed dolor sed consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse cursus risus ac ex auctor placerat. Quisque bibendum at enim sed rutrum
+                  Não é atoa que "inglês" em muitos lugares significa estudá-los. Exemplo seguido por muitas gerações representam a língua em sua expressão máxima. Você entrará em contato com os textos que são, provavelmente, os mais conhecidos da língua inglesa.
                 </div>
               </div>
             </div>
             <div class="col">
               <div class="box-card">
-                <h2>LOREM IPSI</h2>
+                <h2>VALORES FIGURATIVOS</h2>
                 <div class="">
-                  Nunc tempus tempor lectus, non efficitur metus hendrerit nec. Curabitur dignissim ac tellus id scelerisque. Suspendisse tincidunt dapibus dui non posuere. Donec consectetur sed dolor sed consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse cursus risus ac ex auctor placerat. Quisque bibendum at enim sed rutrum
+                  Os autores gostam de figuras de linguagem porque concretizam pensamentos complexos. Descompactar essas figuras é o único jeito de realmente os entender. Entender o que dizem e como dizem é um meio de melhorar a expressão em.
                 </div>
+              </div>
+            </div>
+          </div>
+          <div class="row">
+            <div class="receba">
+              Receba gratuitamente uma aula desse curso!
+            </div>
+            <div class="form">
+              <div class="form-group">
+                <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Enter email">
               </div>
             </div>
           </div>
