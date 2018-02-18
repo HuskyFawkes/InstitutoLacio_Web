@@ -28,7 +28,7 @@
               </div>
             </div>
             <div class="col">
-              video
+              <img src="dist/img/unnamed.jpg" alt="">
             </div>
           </div>
           <div class="row secao-topo-caixas">
