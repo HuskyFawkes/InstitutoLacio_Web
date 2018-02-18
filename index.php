@@ -15,8 +15,39 @@
 
     </header>
     <div class="wrapper-main">
-      <section>
+      <section class="secao-topo">
+        <div class="container">
+          <div class="row">
+            <div class="col">
+              <h1>INGLÊS PELA POESIA</h1>
+              <div class="">
+                Nunc tempus tempor lectus, non efficitur metus hendrerit nec. Curabitur dignissim ac tellus id scelerisque. Suspendisse tincidunt dapibus dui non posuere. Donec consectetur sed dolor sed consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse cursus risus ac ex auctor placerat. Quisque bibendum at enim sed rutrum
+              </div>
+            </div>
+            <div class="col">
 
+            </div>
+          </div>
+          <div class="row">
+            <div class="col">
+              <div class="imagem">
+
+              </div>
+              <div class="titulo">
+
+              </div>
+              <div class="texto">
+                
+              </div>
+            </div>
+            <div class="col">
+              2 of 3
+            </div>
+            <div class="col">
+              3 of 3
+            </div>
+          </div>
+        </div>
       </section>
       <section>
 
