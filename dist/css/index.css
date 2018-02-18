@@ -232,3 +232,21 @@ header ul li {
 .ultima-sessao .imagem img {
   width: 300px;
 }
+
+.comprar-alt {
+  font-size: 25pt;
+  text-align: center;
+}
+
+.sessao123 {
+  padding: 50px;
+}
+
+.sessao123 h1 {
+  text-align: center;
+}
+
+.textao {
+  padding: 50px;
+  text-align: justify;
+}
