@@ -7,17 +7,39 @@ body {
 
 header {
   width: 100%;
-  height: 60px;
-  background-color: red;
+  height: 70px;
+  background-color: #580623;
   position: fixed;
   z-index: 10000;
 }
 
 .wrapper-main {
-  padding-top: 60px;
+  padding-top: 70px;
   width: 100%;
   height: 100%;
   position: absolute;
   overflow: auto;
+  box-sizing: border-box;
+}
+
+.cima-topo {
+  padding: 20px 0;
+}
+
+.cima-topo h1 {
+  padding: 10px 0;
+}
+
+.secao-topo .texto-desc-topo {
+
+}
+
+.box-card {
+  padding: 20px;
+  width: 90%;
+  height: 400px;
+  margin-left: 5%;
+  background-color: red;
+  text-align: center;
   box-sizing: border-box;
 }

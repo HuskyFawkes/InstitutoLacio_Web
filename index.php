@@ -12,20 +12,22 @@
   </head>
   <body>
     <header>
+      <div class="container">
 
+      </div>
     </header>
     <div class="wrapper-main">
       <section class="secao-topo">
         <div class="container">
-          <div class="row">
+          <div class="row cima-topo">
             <div class="col">
               <h1>INGLÊS PELA POESIA</h1>
-              <div class="">
+              <div class="texto-desc-topo">
                 Nunc tempus tempor lectus, non efficitur metus hendrerit nec. Curabitur dignissim ac tellus id scelerisque. Suspendisse tincidunt dapibus dui non posuere. Donec consectetur sed dolor sed consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse cursus risus ac ex auctor placerat. Quisque bibendum at enim sed rutrum
               </div>
             </div>
             <div class="col">
-
+              video
             </div>
           </div>
           <div class="row">
@@ -37,7 +39,7 @@
 
               </div>
               <div class="texto">
-                
+
               </div>
             </div>
             <div class="col">
@@ -53,7 +55,34 @@
 
       </section>
       <section>
-
+        <div class="container">
+          <div class="row">
+            <div class="col">
+              <div class="box-card">
+                <h2>LOREM IPSI</h2>
+                <div class="">
+                  Nunc tempus tempor lectus, non efficitur metus hendrerit nec. Curabitur dignissim ac tellus id scelerisque. Suspendisse tincidunt dapibus dui non posuere. Donec consectetur sed dolor sed consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse cursus risus ac ex auctor placerat. Quisque bibendum at enim sed rutrum
+                </div>
+              </div>
+            </div>
+            <div class="col">
+              <div class="box-card">
+                <h2>LOREM IPSI</h2>
+                <div class="">
+                  Nunc tempus tempor lectus, non efficitur metus hendrerit nec. Curabitur dignissim ac tellus id scelerisque. Suspendisse tincidunt dapibus dui non posuere. Donec consectetur sed dolor sed consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse cursus risus ac ex auctor placerat. Quisque bibendum at enim sed rutrum
+                </div>
+              </div>
+            </div>
+            <div class="col">
+              <div class="box-card">
+                <h2>LOREM IPSI</h2>
+                <div class="">
+                  Nunc tempus tempor lectus, non efficitur metus hendrerit nec. Curabitur dignissim ac tellus id scelerisque. Suspendisse tincidunt dapibus dui non posuere. Donec consectetur sed dolor sed consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse cursus risus ac ex auctor placerat. Quisque bibendum at enim sed rutrum
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
       </section>
       <section>
 
